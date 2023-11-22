@@ -1,0 +1,40 @@
+Piggy Bank application:
+
+---
+
+#Piggy Bank Application
+
+## Author
+Jeremiah E. Ochepo
+
+## Last Updated
+April 22, 2021 (7PM)
+
+## Application Overview
+The Piggy Bank application is a simple program that takes user input, processes the entered values, and determines if the user has enough money to buy a gift card. The application then displays the remaining balance.
+
+## Features
+- User input for different types of coins and bills: pennies, nickels, dimes, quarters, and dollars.
+- Conversion of coins to dollars for easy calculation.
+- Calculation of the total deposit based on the user's input.
+- Determination of the number of gift cards a user can afford.
+- Display of the transaction summary, including the number of gift cards, total cost, and remaining balance.
+
+## How to Use
+1. Run the application (piggyBankProject.py).
+2. Enter the quantities of different coins and bills when prompted.
+3. Click the "Enter" button to calculate the total deposit and see the number of gift cards you can afford.
+4. Click the "Clear" button to reset the screen and enter new values.
+5. Click the "Help" button for instructions on valid entries.
+6. Click the "Exit" button to close the application.
+
+## Requirements
+- Python
+- graphics library (assumed to be part of your project)
+- button library (assumed to be part of your project)
+
+## Notes
+- Ensure that you provide valid numerical entries for coins and bills.
+- Dollar entries should be $1, $5, $20, or $100.
+
+---
