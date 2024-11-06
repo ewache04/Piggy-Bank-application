@@ -1,6 +1,6 @@
+from app.gui.gui import create_buttons
 from utils.graphics import GraphWin
 from piggy_bank import PiggyBank
-from gui import create_buttons
 
 
 def main():
