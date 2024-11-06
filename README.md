@@ -1,4 +1,6 @@
-```
+To fix and improve the README.md file, especially the images and overall content, here's the revised version with some adjustments:
+
+```markdown
 # Piggy Bank Application
 
 ![Piggy Bank UI](screenshots/piggy-bank-ui.png)
@@ -51,6 +53,7 @@ The Piggy Bank application is a graphical user interface (GUI) tool that allows 
 ## Code Structure
 The project is organized into the following directories and files:
 
+```
 Piggy-Bank-application
 ├── app
 │   ├── gui
@@ -65,12 +68,21 @@ Piggy-Bank-application
 │   └── piggy-bank-ui.png       # Screenshot of the application UI
 ├── readme.md                   # Documentation for the project
 └── structure.txt               # Text file documenting the project structure
+```
 
-
-- **utils/**: Contains utility functions and classes.
+- **`app/`**: Contains the core application files.
+  - `gui.py`: Main GUI implementation for the Piggy Bank application.
+  - `main.py`: Entry point of the application, initializes the GUI and logic.
+  - `button.py`: Button functionality and interaction handling.
+  - `piggy_bank.py`: Logic and calculations for the Piggy Bank.
+  
+- **`utils/`**: Contains utility functions and classes.
   - `graphics.py`: A simple graphics library used for rendering GUI components.
 
+- **`screenshots/`**: Contains images for the application UI and cartoon images used in the UI.
+
 ## Classes and Functions
+
 ### PiggyBank Class
 The main class that manages user input, calculations, and GUI components. Key methods include:
 - `setPennies()`, `setNickels()`, `setDimes()`, `setQuarters()`, `setDollars()`: Set input fields for respective coin denominations.
