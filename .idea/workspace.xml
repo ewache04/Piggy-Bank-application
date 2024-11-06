@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b5cc5c0-bfc8-49a2-b8c1-0d9692b0f6d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2oQgBuJEvuHuaE1K7tZtOWmOBkH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.buttons.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.piggyBankProject.executor": "Run",
+    "Python.piggy_bank.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ewach\OneDrive\Documents\GitHub\Piggy-Bank-application\app\gui" />
+      <recent name="C:\Users\ewach\OneDrive\Documents\GitHub\Piggy-Bank-application\app" />
+      <recent name="C:\Users\ewach\OneDrive\Documents\GitHub\Piggy-Bank-application\utils" />
+      <recent name="C:\Users\ewach\OneDrive\Documents\GitHub\Piggy-Bank-application\screenshots" />
+      <recent name="C:\Users\ewach\OneDrive\Documents\GitHub\Piggy-Bank-application" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5cc5c0-bfc8-49a2-b8c1-0d9692b0f6d7" name="Changes" comment="" />
+      <created>1730807081402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730807081402</updated>
+      <workItem from="1730807082521" duration="11029000" />
+    </task>
+    <task id="LOCAL-00001" summary="Refactor application structure for improved maintainability and clarity&#10;&#10;- Organized the project into distinct modules for GUI, logic, and utility functions.&#10;- Moved GUI-related code to a dedicated `gui.py` file in the `app/gui` directory.&#10;- Separated button functionalities into `button.py` for better modularity.&#10;- Enhanced readability and structure of the PiggyBank class in `piggy_bank.py`.&#10;- Updated documentation to reflect the new file organization and improve user instructions.">
+      <option name="closed" value="true" />
+      <created>1730814446608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730814446608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactor application structure for improved maintainability and clarity&#10;&#10;- Organized the project into distinct modules for GUI, logic, and utility functions.&#10;- Moved GUI-related code to a dedicated `gui.py` file in the `app/gui` directory.&#10;- Separated button functionalities into `button.py` for better modularity.&#10;- Enhanced readability and structure of the PiggyBank class in `piggy_bank.py`.&#10;- Updated documentation to reflect the new file organization and improve user instructions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor application structure for improved maintainability and clarity&#10;&#10;- Organized the project into distinct modules for GUI, logic, and utility functions.&#10;- Moved GUI-related code to a dedicated `gui.py` file in the `app/gui` directory.&#10;- Separated button functionalities into `button.py` for better modularity.&#10;- Enhanced readability and structure of the PiggyBank class in `piggy_bank.py`.&#10;- Updated documentation to reflect the new file organization and improve user instructions." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Piggy_Bank_application$piggyBankProject.coverage" NAME="piggyBankProject Coverage Results" MODIFIED="1730809794687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Piggy_Bank_application$buttons.coverage" NAME="buttons Coverage Results" MODIFIED="1730813181243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Piggy_Bank_application$piggy_bank.coverage" NAME="piggy_bank Coverage Results" MODIFIED="1730810552295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Piggy_Bank_application$main.coverage" NAME="main Coverage Results" MODIFIED="1730864492084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+  </component>
+</project>
