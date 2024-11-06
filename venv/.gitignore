@@ -1,0 +1,34 @@
+# Ignore virtual environment directories (created by virtualenv)
+venv/
+*.egg-info/
+*.dist-info/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE-specific files and folders
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+
+# Ignore Python-specific files
+__pycache__/
+*.py[cod]
+
+# Ignore logs and temporary files
+*.log
+*.bak
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# Ignore the environment files
+.env
+.env.*
+*.env
